@@ -10,6 +10,8 @@ namespace SimpleClasses
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
+            Console.ReadLine();
         }
     }
 }
